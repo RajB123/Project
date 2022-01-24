@@ -1,0 +1,35 @@
+*{
+  margin: 4;
+  padding: 5;
+
+}
+nav{
+  background: rgb(89, 178, 240);
+  overflow: auto;
+}
+div{
+  text-align: left;
+  color: rgb(230, 145, 203);
+  cursor: pointer;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li{
+  float: left;
+}
+nav a{
+  width: 120px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  background-color: rgb(89, 178, 240);
+  color: white;
+  padding: 20px 10px;
+}
+footer{
+  text-align: center;
+  background-color: rgb(89, 178, 240);
+}
